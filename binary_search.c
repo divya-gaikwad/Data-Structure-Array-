@@ -10,7 +10,7 @@ void main()
 	{
 		scanf("%d",&a[i]);
 	}
-	printf("Enter number to search=");
+	printf("Enter number you want to search=");
 	scanf("%d",&num);
 	top=0;
 	bottom=n-1;
@@ -32,6 +32,6 @@ void main()
 	if(flag==1)
 	printf("Given number is found at=%d ",mid);
 	else
-	printf("oops! number not found...........");
+	printf("oops! number not found ...........");
 		
 }
