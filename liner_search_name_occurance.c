@@ -1,3 +1,4 @@
+//liner search program to find occurrence 
 #include<stdio.h>
 #include<stdlib.h>
 void main()
