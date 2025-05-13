@@ -32,6 +32,6 @@ void main()
 	if(flag==1)
 	printf("Given number is found at=%d ",mid);
 	else
-	printf("oops! number not found ...........");
+	printf(".................oops! number not found ................");
 		
 }
