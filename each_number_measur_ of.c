@@ -20,7 +20,7 @@ int main()
 			if(a[j]==num)
 			count++;
 			}
-			printf("\n occurance of the number %d is =%d",num,count);
+			printf("\n Occurance of the number %d is =%d",num,count);
 	
 	}
 	
